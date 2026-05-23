@@ -1,0 +1,4 @@
+full_name,email,phone,position,full_time,experience
+Jake Schafer,jake@email.com,01712345678,Python Developer,True,1-3
+John Doe,john@email.com,01798765432,Data Analyst,False,3-5
+Sarah Ahmed,sarah@email.com,01756781234,ML Engineer,True,5+

@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# log files
+*.log
+
+# pdf files except the sample
+*.pdf
+!sample_form.pdf
+
+# Output Folder
+Output/

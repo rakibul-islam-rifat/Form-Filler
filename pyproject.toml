@@ -1,0 +1,11 @@
+[project]
+name = "form-filler"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pymupdf>=1.27.2.3",
+    "pypdf>=6.12.1",
+    "reportlab>=4.5.1",
+]
